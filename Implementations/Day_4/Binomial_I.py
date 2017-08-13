@@ -3,9 +3,11 @@ Objective
 In this challenge, we learn about binomial distributions. Check out the Tutorial tab for learning materials!
 
 Task
-The ratio of boys to girls for babies born in Russia is . If there is child born per birth, what proportion of Russian families with exactly children will have at least boys?
+The ratio of boys to girls for babies born in Russia is 1.09 to 1. If there is 1 child born per birth, 
+what proportion of Russian families with exactly 6 children will have at 3 least boys?
 
-Write a program to compute the answer using the above parameters. Then print your result, rounded to a scale of decimal places (i.e., format).
+Write a program to compute the answer using the above parameters. 
+Then print your result, rounded to a scale of 3 decimal places.
 
 Input Format
 
