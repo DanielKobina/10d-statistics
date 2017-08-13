@@ -3,10 +3,10 @@ Objective
 In this challenge, we go further with binomial distributions. We recommend reviewing the previous challenge's Tutorial before attempting this problem.
 
 Task
-A manufacturer of metal pistons finds that, on average, of the pistons they manufacture are rejected because they are incorrectly sized. What is the probability that a batch of pistons will contain:
-
-    No more than rejects?
-    At least rejects?
+A manufacturer of metal pistons finds that, on average,12% of the pistons they manufacture are rejected because they are incorrectly sized. 
+What is the probability that a batch of 10 pistons will contain:
+    No more than 2 rejects?
+    At least 2 rejects?
 
 Input Format
 
