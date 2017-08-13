@@ -59,4 +59,4 @@ for i in range(x,n+1): #Cumulative Distribution function
     tot += binomial(i,n,p) #probability mass function
     
 output = "{:.3f}".format(tot)
-print(output) #About 5:38.67 minutes to create, About 10:03.72 minutes to redo
+print(output)
