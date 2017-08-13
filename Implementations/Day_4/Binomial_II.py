@@ -48,9 +48,9 @@ def binomial(x,n,p):
 
     return (combination(n,x)) * (p**x) * ((1-p)**(n-x))
 
-p = .12
-x = 2
-n = 10
+p = .12 #probability a manufactured piston is rejected
+x = 2 #aimed number of pistons
+n = 10 #total batch of pistons
 
 one = 0
 for i in range(0,x+1): #Cumulative Distribution function
