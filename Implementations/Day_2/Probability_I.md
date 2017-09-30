@@ -6,7 +6,7 @@ In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probabilit
 Determine total number of possible dice rolls: 36
 Determine total number of possible dice rolls with value 9 or less: 30
 
-**Answer: 30/36 -> 5/6 **
+**Answer: 30/36 -> 5/6**
 
 
 **Question 2:**
