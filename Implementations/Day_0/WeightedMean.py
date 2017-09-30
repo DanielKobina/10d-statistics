@@ -24,7 +24,7 @@ W = [int(c) for c in W]
 top = 0
 bot = 0
 
-for i in range(N): #Weighted mean formula
+for i in range(N): #Weighted mean formula: (X * W) / W
     top += X[i] * W[i] 
     bot += W[i]
    
