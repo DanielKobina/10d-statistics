@@ -38,14 +38,14 @@ def medianF(N,A):
     else: #Odd number of elements
         return sortA[halfN-1]
 
-N = int(input())
-A = input().split() #Create array from string
-F = input().split()
+N = int(input()) #Number of elements in array
+A = input().split() #Array of elements
+F = input().split() #Array of respective frequencies for elements
 
-A = [int(item) for item in A] #Change value and frequency to integers
+A = [int(item) for item in A] #Change values and frequencies to integers
 F = [int(item) for item in F]
 
-L = [] #list with values appearing in correspondence to their frequencies
+L = [] #List with values appearing in correspondence to their frequencies
 count = 0 #Number of elements in list L
 
 for i in range(N):
