@@ -7,7 +7,7 @@ Determine total number of possible dice rolls: 36
 Determine total number of possible dice rolls with value 9 or less: 30
 
 **Answer: 30/36 -> 5/6**
-
+<br />
 
 
 **Question 2:**
@@ -18,7 +18,7 @@ Determine total number of possible dice rolls: 36
 Determine total number of possible dice rolls with value 6 but also different (1-5,2-4,4-2,5-1: 4
 
 **Answer: 4/36 -> 1/9**
-
+<br />
 
 **Question 3:**
 There are 3 urns labeled X, Y, and Z.
