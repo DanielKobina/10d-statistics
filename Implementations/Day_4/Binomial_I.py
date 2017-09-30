@@ -55,7 +55,7 @@ b = float(b)
 g = float(g)
 
 p = b/(b+g) #Probabiliyt of child being a boy
-x = 3 #Number of children to be boys for this problem
+x = 3 #Aimed number of child being a boy
 n = 6 #Total number of children
 
 tot = 0
