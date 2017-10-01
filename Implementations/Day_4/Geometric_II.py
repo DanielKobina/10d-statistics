@@ -14,7 +14,7 @@ The first line contains the respective space-separated numerator and denominator
     5
 """
 
-def CDFgeometric(p,k):
+def geometric_cdf(p,k):
     """Geometric Cumulative Distribution function
     equation: 1 - (q)^k    
     
@@ -32,5 +32,5 @@ num,den = int(num),int(den)
 k = int(input()) #Number of inspections we observe
 p = num/den #Probability that a machine produces a defective product
 
-output = CDFgeometric(p,k)   
+output = geometric_cdf(p,k)   
 print("{:.3f}".format(output))
