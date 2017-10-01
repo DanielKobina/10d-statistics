@@ -4,7 +4,7 @@
 Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
 
 *Thought process:* Determine all possibilities for two children: {B,B}, {B,G}, {G,B}, {G,G} -> 4 possibilities. <br />
-There are three elements in our sample that contain one boy as a child. We had 1/3% chance of choosing any of these options.
+There are three elements in our sample that contain one boy as a child. We had 1/3 chance of choosing any of these options, since we know a boy has to be one of the elements.
 
 **Answer: 1/3**
 
