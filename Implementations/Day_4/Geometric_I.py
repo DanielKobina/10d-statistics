@@ -5,7 +5,7 @@ In this challenge, we go further with geometric distributions.
 
 Task:
 The probability that a machine produces a defective product is 1/3. 
-    What is the probability that the 1st defect is found during the first inspections?
+    What is the probability that the 1st defect is found during the **5th** inspection?
 
 Input Format:
 The first line contains the respective space-separated numerator and denominator for the probability of a defect, 
