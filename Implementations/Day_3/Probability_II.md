@@ -11,7 +11,7 @@ There are three elements in our sample that contain one boy as a child. We had 1
 **Question 2:**
 You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
 
-*Thought process:* Determine probability of picking a specific suit from full deck: 13/52. <br />
+*Thought process:* Determine the probability of picking a specific suit from the full deck: 13/52. <br />
 With that one card gone, there are 12 cards of the same suit and 51 total cards remaining. Therefore there is a 12/51 chance of the next card also being the same suit.
 
 **Answer: 12/51**
