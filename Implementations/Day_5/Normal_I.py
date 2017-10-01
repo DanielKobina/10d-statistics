@@ -36,9 +36,9 @@ def normal_cdf(u,std,x):
     
     return (1 + erf(z))*.5
 
-u, std = input().split() #mean, standard deviation
-q1 = float(input()) #question 1 value
-q2a,q2b = input().split() #question 2 values
+u, std = input().split() #Mean, Standard deviation
+q1 = float(input()) #Question 1 value
+q2a,q2b = input().split() #Question 2 values
 
 u, std, q2a, q2b = int(u), int(std), int(q2a), int(q2b)
 
