@@ -1,4 +1,4 @@
-# Probability 
+# Probability and Compound Events
 
 **Question 1:**
 In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that their sum will be at most 9.
