@@ -8,4 +8,5 @@ x on y: 4x + 3y + 7 = 0, x = -3y/4 - 7/4 <br />
 
 r = square root of (y on x slope) * (x on y slope) <br />
 r = [(-3/4) * (-3/4)] ^ (1/2) -> +- 3/4 <br />
+<br />
 **Answer: +- 3/4**
